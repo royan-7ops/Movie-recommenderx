@@ -4,7 +4,7 @@ A fully responsive and visually stunning movie recommendation web application bu
 
 ![MovieMagic](https://img.shields.io/badge/React-18.0-blue) ![Flask](https://img.shields.io/badge/Flask-3.0-green) ![Tailwind](https://img.shields.io/badge/Tailwind-4.0-blue)
 
-##Sample output images
+## Sample output images
 <p align="center">
   <img src="C:\Users\vrsha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-04 155953.png" alt="Landing Page" width="30%"/>
   <img src="C:\Users\vrsha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-04 160642.png" alt="Dashboard" width="30%"/>
@@ -216,5 +216,6 @@ For questions or support, please open an issue on GitHub.
 ---
 
 Made with ❤️ using React, Flask, and Machine Learning
+
 
 
