@@ -219,7 +219,8 @@ For questions or support, please open an issue on GitHub.
 
 ---
 
-Made with ❤️ using React, Flask, and Machine Learning
+Made with using React, Flask, and Machine Learning
+
 
 
 
